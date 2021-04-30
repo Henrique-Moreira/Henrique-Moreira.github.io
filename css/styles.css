@@ -42,6 +42,7 @@
     height: 100vh;
     background-color: var(--about-bg-color);
     padding: 50px;
+    overflow-y: auto;
 }
 
 /* Bio container  */
